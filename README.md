@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lord Willard
 - 🌱 I’m currently learning flutter
-- 📫 Ping me on LinkedIn, https://www.linkedin.com/in/jwillard/
+- 📫 Ping me on [LinkedIn](https://www.linkedin.com/in/jwillard/)
 
 <!---
 willard-pro/willard-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
