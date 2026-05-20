@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Lord Willard, enjoy coding and sufing
-- 🌱 My latest brain child is [Igor](https://github.com/willard-pro/igor)
+- 👋 Hi, I’m John Willard, enjoy coding, sufing and head banging to metal
+- 🌱 My latest brain child is [Claude Plugins](https://github.com/willard-pro/claude-plugins)
 - 📫 Ping me on [LinkedIn](https://www.linkedin.com/in/jwillard/)
 
 <!---https://github.com/willard-pro/igor
